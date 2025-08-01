@@ -1,3 +1,4 @@
+# checking the number of even and odd outcomes on rolling a dice for n times
 import random
 dice=[1,2,3,4,5,6]
 even=0
