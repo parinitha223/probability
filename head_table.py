@@ -1,3 +1,4 @@
+#printing the probability of head for each toss
 import random
 coin=['h','t']
 n=0             #no of tosses
