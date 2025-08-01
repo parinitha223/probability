@@ -1,3 +1,6 @@
+# a bomb game where the participant have to pay some amount to play. 
+# all he has to do is to guess the box which has no bomb among 5 boxes
+#if the guess is right he will get double amount.
 import random
 Boxes=[1,2,3,4,5]
 entry_fee=5
