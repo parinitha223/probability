@@ -1,4 +1,5 @@
-
+# a dice game where the participants should give some amount for each roll ,
+# and they get the money equal to the number they got on rolling the dice
 import random
 dice=[1,2,3,4,5,6]          #creating virtual dice
 n=1000                      #virtual participants
